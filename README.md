@@ -13,8 +13,7 @@
 
 <!-- Overview Section -->
 ## Overview
-
-![Reservation-Form]([/screenshots/reservation-form.png](https://github.com/shivamnit123/Restaurant-Reservation/blob/main/Screenshot%202024-03-22%20140135.png))
+([/screenshots/reservation-form.png](https://github.com/shivamnit123/Restaurant-Reservation/blob/main/Screenshot%202024-03-22%20140135.png))
 
 The Restaurant Reservation Website is a full-stack application that allows users to make reservations at a restaurant. It features a stylish and intuitive reservation form where users can enter their details such as name, phone number, reservation date, time, total members, and select a category.
 

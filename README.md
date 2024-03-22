@@ -19,4 +19,4 @@ This is a full-stack web application for making reservations at a restaurant. It
 - Category selection for different reservation areas.
 - Real-time feedback using toast notifications.
 - Responsive design for mobile and desktop devices.
-- 
+

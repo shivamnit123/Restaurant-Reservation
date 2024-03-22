@@ -10,9 +10,6 @@
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 <!-- Overview Section -->
 ## Overview

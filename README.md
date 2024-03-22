@@ -4,13 +4,6 @@
 <!-- Project Description -->
 <p align="center">A modern and user-friendly restaurant reservation web application built with MERN stack.</p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/license/yourusername/restaurant-reservation" alt="License">
-  <img src="https://img.shields.io/github/stars/yourusername/restaurant-reservation" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/restaurant-reservation" alt="Forks">
-</p>
-
 <!-- Table of Contents -->
 ## Table of Contents
 
@@ -24,7 +17,7 @@
 <!-- Overview Section -->
 ## Overview
 
-![Screenshot](/screenshots/reservation-form.png)
+<!--![Screenshot](/screenshots/reservation-form.png) -->
 
 The Restaurant Reservation Website is a full-stack application that allows users to make reservations at a restaurant. It features a stylish and intuitive reservation form where users can enter their details such as name, phone number, reservation date, time, total members, and select a category.
 
